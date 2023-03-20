@@ -1,0 +1,63 @@
+TUM_RGBD:
+  binbin-PC:
+    dataset_root: '/media/binbin/data/dataset/tum-rgbd'
+
+  bigdaddy:
+    dataset_root: '/mnt/datasets/bx516/tum-rgbd'
+
+  cressida:
+    dataset_root: '/mnt/datasets/bx516/tum-rgbd'
+
+  basalt:
+    dataset_root: '/mnt/datasets/bx516/tum-rgbd'
+
+  bigboy:
+    dataset_root: '/mnt/disk/bx516/tum-rgbd'
+
+SCANNET:
+  binbin-PC:
+    dataset_root: '/media/binbin/InteriorNet_HD1/scannet/scannet_small/scannet_small'
+
+  bigdaddy:
+    dataset_root: '/mnt/backup/bx516/scannet_small'
+
+  cressida:
+    dataset_root: '/mnt/datasets/binbin/scannet'
+
+  basalt:
+    dataset_root: '/mnt/datasets/bx516/scannet'
+
+  bigboy:
+    dataset_root: '/mnt/disk/bx516/scannet'
+
+MOVING_OBJECTS_3D:
+  binbin-PC:
+    dataset_root: '/media/binbin/data/dataset/movingObjects3D'
+
+  bigdaddy:
+    dataset_root: '/mnt/datasets/bx516/movingObjects3D'
+
+  cressida:
+    dataset_root: '/mnt/datasets/bx516/movingObjects3D'
+
+  basalt:
+    dataset_root: '/mnt/datasets/bx516/movingObjects3D'
+
+  bigboy:
+    dataset_root: '/mnt/disk/bx516/movingObjects3D'
+
+VaryLighting:
+  binbin-PC:
+    dataset_root:  '/media/binbin/data/dataset/vary-lighting/track'
+  
+  bigdaddy:
+    dataset_root: '/mnt/datasets/bx516/vary-lighting/track'
+
+  cressida:
+    dataset_root: '/mnt/datasets/bx516/vary-lighting/track'
+
+  basalt:
+    dataset_root: '/mnt/datasets/bx516/vary-lighting/track'
+
+  bigboy:
+    dataset_root: '/mnt/disk/bx516/vary-lighting/track' 
